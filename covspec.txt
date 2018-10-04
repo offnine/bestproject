@@ -7,6 +7,9 @@ bestproject alkalmazás követelményspecifikáció
 Menni kéne haza
 
 
+okcs
+
+
 3.funkciónális követelmények
 
 4.technikai követelmények
