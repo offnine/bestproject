@@ -1,0 +1,9 @@
+bestproject alkalmazás követelményspecifikáció
+
+1.bevezetés
+
+2.jelenlegi helyzet
+
+3.funkciónális követelmények
+
+4.technikai követelmények
