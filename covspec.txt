@@ -4,9 +4,6 @@ bestproject alkalmazás követelményspecifikáció
 
 2.jelenlegi helyzet
 
-Menni kéne haza
-
-
 3.funkciónális követelmények
 
 4.technikai követelmények
