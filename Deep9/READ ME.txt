@@ -1,0 +1,7 @@
+ZENELEJÁTSZÓ PROGRAM:
+
+1.Mindenkinek van mappája ../bestproject/Deep9/Source_Codes
+
+oda tölthetitek fel a saját cs fájlokat (osztályokat)
+
+A GLOBAL mappába lehet ötleteket vagy a design elemek (pdf) ek feltöltése
