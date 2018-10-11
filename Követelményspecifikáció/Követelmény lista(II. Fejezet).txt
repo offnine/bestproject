@@ -1,0 +1,5 @@
+1. A szoftver legyen képes átlagos matematikai mûveletek elvégzésére.
+
+2. A szoftver úgy induljon, hogy megjeleníti a számológépet. A felhasználó elvégzi a számára fontos mûveleteket, és miután nem szeretné használni a programot, egyszerûen állítsa le a "Leállítás" gombbal.
+
+3. Kivételes helyzetekre is fel kell készülni; nullával való szorzás/osztás lekezelése.
