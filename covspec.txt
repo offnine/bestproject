@@ -1,7 +1,6 @@
 bestproject alkalmazás követelményspecifikáció
 
-1.bevezetés
-vicceket mindenki szereti,nagy profit van ebbe
+1.bevezetés(Zenelejátszó)
 
 2.jelenlegi helyzet
 
