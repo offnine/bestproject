@@ -7,8 +7,5 @@ vicceket mindenki szereti,nagy profit van ebbe
 
 3.funkciónális követelmények
 
-A viccek kategorizûlva vannak
-A vendég értékelheti a viccet
-
 4.technikai követelmények
 
