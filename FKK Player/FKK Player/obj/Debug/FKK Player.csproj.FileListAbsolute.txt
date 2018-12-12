@@ -1,0 +1,26 @@
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\FKK Player.exe.config
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\FKK Player.exe
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\FKK Player.pdb
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\Interop.AXVLC.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\FKK Player.csprojAssemblyReference.cache
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\Interop.AXVLC.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\FKK Player.csproj.ResolveComReference.cache
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\FKK_Player.Form1.resources
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\FKK_Player.Properties.Resources.resources
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\FKK Player.csproj.GenerateResource.cache
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\FKK Player.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\FKK Player.csproj.CopyComplete
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\FKK Player.exe
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\obj\Debug\FKK Player.pdb
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Patrik\source\repos\FKK Player\FKK Player\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml

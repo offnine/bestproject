@@ -73,6 +73,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -122,6 +123,23 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="buttons\asd.png" />
+    <Content Include="Resources\open.png" />
+    <None Include="Resources\stop2.png" />
+    <None Include="Resources\stop1.png" />
+    <None Include="Resources\open1.png" />
+    <None Include="Resources\open2.png" />
+    <None Include="Resources\open21.png" />
+    <Content Include="Resources\pause.png" />
+    <None Include="Resources\pause1.png" />
+    <None Include="Resources\pause2.png" />
+    <Content Include="Resources\play2.png" />
+    <None Include="Resources\play21.png" />
+    <Content Include="Resources\stop.png" />
+    <None Include="Resources\play.png" />
+    <None Include="Resources\asd.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
